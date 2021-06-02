@@ -1,0 +1,76 @@
+body{
+    font-family: 'Modernica', serif;
+    width: 90%;
+    max-width: 900px;
+    margin: 1em auto;
+    font-size: 1.1em;
+    background-color: #F8F8F7; 
+    background-size: 70%;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    width: 100%;
+}
+
+h1{
+    color:#bc2724 ;
+}
+
+p{
+    color: #1F2624;
+}
+
+h2{
+    color:#bc2724 ;
+}
+
+
+h3{
+    color: #bc2724 ;
+}
+
+li{
+    color:#1F2624;
+    }
+
+.idc-box{
+    background:#F8F8F7 none repeat scroll 0 0;
+    border: 1px solid #F8F8F7;
+    display: table;
+    font-size: 1em;
+    margin-bottom: 1em;
+    width: auto;
+}
+
+.idc-box .idc-titulo{
+    font-weight: 1em;
+    text-align: left;
+}
+
+.idc-box li, .idc-box ul, .idc-box ul li{
+    padding: 5px;
+    list-style: outside none none !important;
+}
+
+.isologo-completo{
+    width: 60%;
+}
+
+.esqueleto-isotipo{
+    width: 55%;
+}
+
+.isotipo-medidas{
+    width: 35%;
+}
+
+.logo-entero-medidas{
+    width: 70%;
+}
+
+.logotipo-pucv{
+    width: 100%;
+}
