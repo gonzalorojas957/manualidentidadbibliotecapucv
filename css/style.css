@@ -55,12 +55,16 @@ li{
     list-style: outside none none !important;
 }
 
-.isologo-completo{
+.isologo-completoazul{
+    width: 60%;
+}
+
+.isologo-completorojo{
     width: 60%;
 }
 
 .esqueleto-isotipo{
-    width: 55%;
+    width: 80%;
 }
 
 .isotipo-medidas{
@@ -75,6 +79,10 @@ li{
     width: 100%;
 }
 
+.logotipo-pucvgrilla{
+    width: 100%;
+}
+
 .tipografía-modernica{
     width: 70%;
 }
@@ -84,13 +92,21 @@ li{
 }
 
 .colores-biblioteca{
-    width: 100%;
+    width: 90%;
 }
 
 .logotipo-norojo{
-    width: 100%;
+    width: 80%;
 }
 
 .logotipo-noazul{
-    width: 100%;
+    width: 80%;
+}
+
+.isologo-azul{
+    width: 80%;
+}
+
+.isologo-rojo{
+    width: 80%;
 }
